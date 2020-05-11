@@ -1,16 +1,5 @@
-# flutterphotocollectionapp
+# Photo Collections 🖼️
+  This is a simple application which retrieve photos from 2 different Unsplash image collection apis, which is then displayed in two different tabs. I created this application a a part of an assignment given by Bipolar Factory for hiring as a intern.
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here is a short demonstration of the applicatin.
+![ScreenRecording](https://github.com/jainayu/flutter_photos__app/blob/master/20-05-12-01-51-15.gif)
